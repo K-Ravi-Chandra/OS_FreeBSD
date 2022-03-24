@@ -1191,7 +1191,7 @@ int main(int argc, char *argv[]) {
   }
 
   editorSetStatusMessage(
-    "Press Enter to edit");
+    "Press Enter to edit ");
 
   while (1) {
     editorRefreshScreen();
